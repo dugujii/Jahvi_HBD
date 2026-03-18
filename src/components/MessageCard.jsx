@@ -18,8 +18,9 @@ function MessageCard({ isActive }) {
   I hope today brings you lots of happiness, smiles, and all the little things that make you feel special. You deserve a day filled with warmth, laughter, and good memories.
   May this year bring you peace, success, and everything you’ve been wishing for. I’m really glad to have you in my life and I hope this birthday becomes one of your favorite memories.
   Enjoy your day to the fullest!
+  and ** Hai ise birthday sab acha hi hoga. **
 
-  — Rituraj`;
+  `;
 
   // Handle page transitions
   useEffect(() => {
